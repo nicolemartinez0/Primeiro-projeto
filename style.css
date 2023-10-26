@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-size:  30px;
+}
+
+
+span {
+    font-weight: bolder;
+}
+
+img {
+    width: 190px;
+}
+
+button {
+    color: white;
+    border-radius: 15px;
+    padding: 10px 15px;
+    background-color: rgb(34, 175, 34);
+    border: none;
+}
